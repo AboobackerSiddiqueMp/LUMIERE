@@ -1,0 +1,6 @@
+{
+  "name": "Lumière High-Fashion Lookbook & Storefront",
+  "description": "A curated luxury digital lookbook, asymmetric editorial catalogue, and wishlist experience featuring architectural silhouettes and monochrome collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
